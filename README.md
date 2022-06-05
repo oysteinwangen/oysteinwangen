@@ -1,5 +1,9 @@
-### Hi there! 👋 My name is Øystein Wangen.
-I'm a creative front-end developer who cares deeply about user experience.
+## Hi there! 👋
+I'm, Øystein, a creative front-end developer who cares deeply about user experience. I love working with music, design, web development, photography and new technologies.
+
+I enjoy a good cup of coffee at my desk, discussing innovative projects, playing video games and designing smooth user experiences.
+
+
 
 <!--
 **oysteinwangen/oysteinwangen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
