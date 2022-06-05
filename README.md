@@ -3,11 +3,18 @@ I'm, Øystein, a creative front-end developer who cares deeply about user experi
 
 I enjoy a good cup of coffee at my desk, discussing innovative projects, playing video games and designing smooth user experiences.
 
-### What I'm currently working on 🔭
+#### What I'm currently working on 🔭
 - A completely new website for my freelance digital development business
 - A complete redesign and re-development of [arkentype.com](https://arkentype.com)
 
-### How to reach me 📫
+#### What I'm currently learning 🌱
+- three.js
+- Google Firebase
+- Remix
+
+Other than this I'm currently a front-end development student at [Noroff - School of technology and digital media](https://www.noroff.no/)
+
+#### How to reach me 📫
 You can reach me by emailing [hello@wangen.digital](mailto:hello@wangen.digital)
 
 <!--
