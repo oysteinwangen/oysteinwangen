@@ -7,6 +7,7 @@ I enjoy a good cup of coffee at my desk, discussing innovative projects, playing
 - A completely new website for my freelance digital development business
 - A complete redesign and re-development of [arkentype.com](https://arkentype.com)
 
+### How to reach me 📫
 You can reach me by emailing [hello@wangen.digital](mailto:hello@wangen.digital)
 
 <!--
