@@ -1,4 +1,4 @@
-## Hi there! 👋
+### Hi there! 👋
 I'm, Øystein, a creative front-end developer who cares deeply about user experience. I love working with music, design, web development, photography and new technologies.
 
 I enjoy a good cup of coffee at my desk, discussing innovative projects, playing video games and designing smooth user experiences.
