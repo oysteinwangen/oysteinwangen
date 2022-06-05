@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! 👋 My name is Øystein Wangen.
+I'm a creative front-end developer who cares deeply about user experience.
 
 <!--
 **oysteinwangen/oysteinwangen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
