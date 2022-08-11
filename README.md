@@ -13,7 +13,7 @@ I enjoy a good cup of coffee at my desk, discussing innovative projects, playing
 - Google Firebase
 - Remix
 
-Other than this I'm currently a front-end development student at [Noroff - School of technology and digital media](https://www.noroff.no/)
+Other than this I recently completed front-end development studies at [Noroff - School of technology and digital media](https://www.noroff.no/)
 
 #### How to reach me 📫
 You can reach me by emailing [hello@wangen.digital](mailto:hello@wangen.digital)
