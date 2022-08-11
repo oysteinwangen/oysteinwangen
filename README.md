@@ -6,6 +6,7 @@ I enjoy a good cup of coffee at my desk, discussing innovative projects, playing
 #### What I'm currently working on 🔭
 - A completely new website for my freelance digital development business
 - A complete redesign and re-development of [arkentype.com](https://arkentype.com)
+- A complete redesign and re-development of [aukrust.no](https://aukrust.no), along with some branding work and style guides
 
 #### What I'm currently learning 🌱
 - three.js
